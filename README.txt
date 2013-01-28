@@ -1,0 +1,1 @@
+This sifteo app gives you a bunch of verbs, nouns, and other parts of speech distributed across many cubes. Shake any cube to change the word displayed. Create hilarity. Profit.
